@@ -1,7 +1,10 @@
-# 翁乐安的知识库
+# 知识库
 
 - Github Repository URL：[WengLean/wenglean.github.io](https://github.com/WengLean/wenglean.github.io)
 - Online Reading URL：https://wenglean.github.io/#/
+- 添加个人 微信免费领资料，拒绝套路 + 18810500205
+
+
 
 ## 教育背景
 
