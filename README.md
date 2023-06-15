@@ -1,18 +1,15 @@
-# Zuokuijun's Knowledge Repository
+# 翁乐安的知识库
 
-- Github Repository URL：https://github.com/zuokuijun/zuokuijun.github.io
-- Gitee Repository URL:  https://zuokuijun.gitee.io/zuokuijun.github.io
-- Online Reading URL：https://zuokuijun.github.io/#/
+- Github Repository URL：[WengLean/wenglean.github.io](https://github.com/WengLean/wenglean.github.io)
+- Online Reading URL：https://wenglean.github.io/#/
 
-## Personal Profile
+## 教育背景
 
-**School**：Northwestern Polytechnical University（NWPU）——Aircraft Intelligent Sensing and Control Laboratory
+**本科：** 北京交通大学 机械与电子控制工程学院  机械工程 
 
-**Joint Training Unit**：China Aerodynamics Research and Development Center——State Key Laboratory of Aerodynamics      
+**硕士：** 西北工业大学 航空学院 航空宇航科学与技术   
 
-**Research Direction**：Aerodynamics、Machine Learning
-
-## Academic Achievements
+**研究方向：** 增量学习，变化检测
 
 
 
